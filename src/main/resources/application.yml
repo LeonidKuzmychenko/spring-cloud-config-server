@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-cloud-config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        bootstrap: false
+        native:
+#          search-locations: file:///configs/
+#          search-locations: classpath:/configs
+#          search-locations: file:./configs
+          search-locations: file:./configs/
+server:
+  port: 8888
