@@ -1,2 +1,2 @@
-message1: "General Spring Cloud Config!"
-message2: test
+message1: "spring-cloud-config-client Spring Cloud Config!"
+message2: postman
