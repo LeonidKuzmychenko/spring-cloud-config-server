@@ -1,1 +1,2 @@
-message: "spring-cloud-config-client Spring Cloud Config! DEV"
+message1: "spring-cloud-config-client Spring Cloud Config! DEV"
+message2: test

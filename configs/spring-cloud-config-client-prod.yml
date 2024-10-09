@@ -1,1 +1,2 @@
-message: "spring-cloud-config-client Spring Cloud Config! PROD"
+message1: "spring-cloud-config-client Spring Cloud Config! PROD"
+message2: test

@@ -1,1 +1,2 @@
-message: "General Spring Cloud Config!"
+message1: "General Spring Cloud Config!"
+message2: test
