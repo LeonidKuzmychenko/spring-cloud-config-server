@@ -1,2 +1,4 @@
 message1: General Spring Cloud Config! fix ggi gigi
-message2: qwerty
+b1:
+  b2:
+    b3: qwerty
