@@ -1,4 +1,4 @@
-message1: "spring-cloud-config-client Spring Cloud Config! aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+message1: "spring-cloud-config-client Spring Cloud Config!"
 message2: postman
 first:
   second:
