@@ -1,2 +1,4 @@
-message1: "spring-cloud-config-client Spring Cloud Config! DEV"
-message2: postman1233
+message1: General Spring Cloud Config! DEV!
+b1:
+  b2:
+    b3: qwerty23
