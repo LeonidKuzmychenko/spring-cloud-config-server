@@ -1,1 +1,2 @@
-{"name":"application-dev.yml","sha":"82ffd8e434903bc113828213615abee073b665b3"}
+message1: "General Spring Cloud Config! DEV"
+message2: test2223rbr
