@@ -1,4 +1,1 @@
-message1: General Spring Cloud Config! DEV!
-b1:
-  b2:sdc
-    b3: qwerty123123123123
+{"name":"application-dev.yml","sha":"e674ebaf04e58aeca17965b466e7b1d0f12db33c"}
